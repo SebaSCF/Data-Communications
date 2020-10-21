@@ -4,3 +4,4 @@
 
 
 Assignment # 1 - Network Devices 
+Assignment # 2 - LAN, WAN, MAN, HAN and PAN.
